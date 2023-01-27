@@ -29,7 +29,7 @@ To run the API, you will need to have Go installed on your machine. Once you hav
 
 `go run main.go`
 
-This will start the API on port 8000.
+This will start the API on port 8080.
 
 
 ## Note
